@@ -1,4 +1,4 @@
-# 虚构-勺子
+# fictional-spoon
 ## What is this?
 The fictional spoon is a python program that you can use to quickly open the Java original minecraft server! Trust me, it's great!
 ## Why make a fictional spoon?
