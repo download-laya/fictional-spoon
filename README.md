@@ -1,6 +1,9 @@
-# fictional-spoon
-## What is this?
-The fictional spoon is a python program that you can use to quickly open the Java original minecraft server! Trust me, it's great!
-## Why make a fictional spoon?
+# 虚构勺子
 
-Perhaps, you will find it easy to open a service meeting with the original java version. However, if you want to make the original simple things easier, maybe you can try the fictional spoon!
+## 这是什么？
+
+虚构勺子是一个Python程序，您可以使用该程序快速开启Java原版MineCraft服务端！相信我，这会很棒！
+
+## 为什么制作虚构勺子？
+
+也许，你会觉得用Java版原版开服会很简单。但是，如果你想把原本简单的事变得更简单，或许，你可以试试虚构勺子！
